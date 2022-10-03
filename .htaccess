@@ -1,0 +1,49 @@
+Options +Indexes
+
+IndexOptions +FancyIndexing
+
+IndexOptions +FoldersFirst
+
+IndexOptions +XHTML
+
+IndexOptions +SuppressRules
+
+IndexIgnore .htaccess /styling
+
+HeaderName /styling/header.html
+
+ReadmeName /styling/footer.html
+
+IndexStyleSheet "/styling/style.css"
+
+DefaultIcon /styling/icons/logoicon.png
+
+AddIcon /styling/icons/blank.gif ^^BLANKICON^^
+
+AddIcon /styling/icons/dir.png ^^DIRECTORY^^
+
+AddIcon /styling/icons/back.png ..
+
+AddIcon /styling/icons/image.png .jpg .png .gif .tif .tiff
+
+AddIcon /styling/icons/java.png .java
+
+AddIcon /styling/icons/php.png .php
+
+AddIcon /styling/icons/js.png .js
+
+AddIcon /styling/icons/zip.png .zip
+
+AddIcon /styling/icons/rar.png .rar
+
+AddIcon /styling/icons/pdf.png .pdf
+
+AddIcon /styling/icons/mp4.png .mp4
+
+AddIcon /styling/icons/mkv.png .mkv
+
+php_flag display_startup_errors off
+php_flag display_errors off
+php_flag html_errors off
+
+ErrorDocument 404 http://localhost/errors/

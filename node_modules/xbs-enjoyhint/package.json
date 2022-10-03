@@ -1,0 +1,65 @@
+{
+  "_from": "xbs-enjoyhint",
+  "_id": "xbs-enjoyhint@4.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-OrHRRHe8WoRbRsp0L1exRGO0DtdKhGggyskFUUTdWfCF1TxpxufmeT8XnJw1nHbJUJC3g9/7q1a6DxddUOMamg==",
+  "_location": "/xbs-enjoyhint",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "xbs-enjoyhint",
+    "name": "xbs-enjoyhint",
+    "escapedName": "xbs-enjoyhint",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/xbs-enjoyhint/-/xbs-enjoyhint-4.0.5.tgz",
+  "_shasum": "9ddaad5047ebf28266cf56396b0e2abd8cbfc60d",
+  "_spec": "xbs-enjoyhint",
+  "_where": "C:\\Users\\Dell\\Desktop\\eh-npm",
+  "author": {
+    "name": "XB Software"
+  },
+  "bugs": {
+    "url": "https://github.com/xbsoftware/enjoyhint/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "jquery": "~3.5.1",
+    "jquery.scrollto": "^2.1.2",
+    "kinetic": "^5.2.0"
+  },
+  "deprecated": false,
+  "description": "Web-tool that provides the simplest way to create interactive tutorials and hints.",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-cssmin": "^0.11.0",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-uglify": "^0.9.1"
+  },
+  "homepage": "https://github.com/xbsoftware/enjoyhint",
+  "keywords": [
+    "enjoyhint",
+    "hint",
+    "xbs",
+    "tutorials"
+  ],
+  "license": "MIT",
+  "main": "enjoyhint.js",
+  "name": "xbs-enjoyhint",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbsoftware/enjoyhint.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "4.0.6"
+}
