@@ -9,15 +9,14 @@ Esta web permite a un usuario almacenar, compartir, abrir, editar, eliminar y ve
 <p align="center"><img src="https://github.com/AcoranGonzalezMoray/MyDrive/blob/main/images/Contenido_P.png"></p>
 
 <p>
-Aquí cualquier usuario puede modificar o ver de forma que los cambios realizados son público, el contenido de este  'directorio'
-pertence al 'htdocs' de Xampp.
+Aquí cualquier usuario puede modificar o ver de forma que los cambios realizados son público, el contenido de este  'directorio' pertence al 'htdocs' de Xampp. (<a href=""> Tiny File Manager </a>)
 </p>
 
 ## Panel Privado (Light)
 <p align="center"><img src="https://github.com/AcoranGonzalezMoray/MyDrive/blob/main/images/Contenido_PP.png"></p>
 
 <p>
-Además del panel público el usuario dispone de su propio panel privado, donde tiene la posibilidad de ompartir si lo desea cualquier contenido a un usuario concreto.
+Además del panel público el usuario dispone de su propio panel privado, donde tiene la posibilidad de ompartir si lo desea cualquier contenido a un usuario concreto. (<a href=""> Tiny File Manager </a>)
 </p>
 
 ## Dropzone
@@ -32,7 +31,7 @@ o desde el propio panel.
 <p align="center"><img src="https://github.com/AcoranGonzalezMoray/MyDrive/blob/main/images/Tutorial.png"></p>
 
 <p>
- + Se ha implementado usando 'enjoyhint' un tutorial interactivo para los nuevos usuarios.
+ + Se ha implementado usando <a href=""> EnyoiHint</a> un tutorial interactivo para los nuevos usuarios.
 </p>
 
 ## Personalización
@@ -45,7 +44,7 @@ Donde Lim, indica los GB asignados a un usuario nuevo, y tutorial si un nuevo us
 
 ### 2.Directorio usado para los espacios privados de cada usuario:
 
-Como se ha comentado la ruta para el directorio público usado es el propio htdocs de xampp, mientras que la ruta donde se crean los directorios privados (la creación de los ficheros al registrarse un usuario ya viene implementado solo hay que cambiar la ruta) pertenece a un disco hdd, por tanto está fuera del diretorio predeterminado como público. Para añadir una nueva ruta fuera de htdocs como accesible en xampp se ha de configurar el archivo 'httpd.conf' añadiendo las siguientes líneas
+Como se ha comentado la ruta para el directorio público usado es el propio htdocs de xampp, mientras que la ruta donde se crean los directorios privados (la creación de los ficheros al registrarse un usuario ya viene implementado solo hay que cambiar la ruta) pertenece a un disco hdd, por tanto está fuera del diretorio predeterminado como público. Para añadir una nueva ruta fuera de htdocs como accesible en xampp se ha de configurar el archivo  ```httpd.conf``` añadiendo las siguientes líneas
 
 httpd.conf:
 ```
@@ -84,4 +83,9 @@ $root_path = 'ruta_directorio_privado';
 
 ```
 
-## FrameWorks de 3
+## Material implicado:
+
+--> Tiny File Manager (https://github.com/prasathmani/tinyfilemanager.git)
+
+
+--> Enjoyhint (https://github.com/xbsoftware/enjoyhint.git)
