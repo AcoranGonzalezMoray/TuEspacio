@@ -2,21 +2,21 @@
 <p align="center"><img src="https://github.com/AcoranGonzalezMoray/MyDrive/blob/main/images/Home.png"></p>
 
 <p>
-Esta web permite a un usuario almacenar, compartir, abrir, editar, eliminar y ver cualquier archivo de forma online, este proyecto es ideal para implementarlo de forma local tanto para uso doméstico como profesional. Al registrarse el sistema asigna automaticamente 10GB de espacio, aunque esto puede ser retocado por el administrador como se observa en la sección de Personalización. Recalcar que este sistema implementa un tutorial interactivo para los nuevos usuarios [Enjoyhint]
+Esta web permite a un usuario almacenar, compartir, abrir, editar, eliminar y ver cualquier archivo de forma online, este proyecto es ideal para implementarlo de forma local tanto para uso doméstico como profesional. Al registrarse el sistema asigna automaticamente 10GB de espacio, aunque esto puede ser retocado por el administrador como se observa en la sección de Personalización. Recalcar que este sistema implementa un tutorial interactivo para los nuevos usuarios (<a href="https://github.com/AcoranGonzalezMoray/MyEspace#material-implicado"> Enjoyhint </a>)
 </p>
 
 ## Panel Público (Dark)
 <p align="center"><img src="https://github.com/AcoranGonzalezMoray/MyDrive/blob/main/images/Contenido_P.png"></p>
 
 <p>
-Aquí cualquier usuario puede modificar o ver de forma que los cambios realizados son público, el contenido de este  'directorio' pertence al 'htdocs' de Xampp. (<a href=""> Tiny File Manager </a>)
+Aquí cualquier usuario puede modificar o ver de forma que los cambios realizados son público, el contenido de este  'directorio' pertence al 'htdocs' de Xampp. (<a href="https://github.com/AcoranGonzalezMoray/MyEspace#material-implicado"> Tiny File Manager </a>)
 </p>
 
 ## Panel Privado (Light)
 <p align="center"><img src="https://github.com/AcoranGonzalezMoray/MyDrive/blob/main/images/Contenido_PP.png"></p>
 
 <p>
-Además del panel público el usuario dispone de su propio panel privado, donde tiene la posibilidad de ompartir si lo desea cualquier contenido a un usuario concreto. (<a href=""> Tiny File Manager </a>)
+Además del panel público el usuario dispone de su propio panel privado, donde tiene la posibilidad de ompartir si lo desea cualquier contenido a un usuario concreto. (<a href="https://github.com/AcoranGonzalezMoray/MyEspace#material-implicado"> Tiny File Manager </a>)
 </p>
 
 ## Dropzone
@@ -31,7 +31,7 @@ o desde el propio panel.
 <p align="center"><img src="https://github.com/AcoranGonzalezMoray/MyDrive/blob/main/images/Tutorial.png"></p>
 
 <p>
- + Se ha implementado usando <a href=""> EnyoiHint</a> un tutorial interactivo para los nuevos usuarios.
+ + Se ha implementado usando <a href="https://github.com/AcoranGonzalezMoray/MyEspace#material-implicado"> Enjoyhint </a> un tutorial interactivo para los nuevos usuarios.
 </p>
 
 ## Personalización
