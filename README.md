@@ -1,7 +1,8 @@
 # MyEspace
 <p align="center"><img src="https://github.com/AcoranGonzalezMoray/MyDrive/blob/main/images/Home.png"></p>
+<img align=left src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><img align=left src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<p><br>
 
-<p>
 Esta web permite a un usuario almacenar, compartir, abrir, editar, eliminar y ver cualquier archivo de forma online, este proyecto es ideal para implementarlo de forma local tanto para uso doméstico como profesional. Al registrarse el sistema asigna automaticamente 10GB de espacio, aunque esto puede ser retocado por el administrador como se observa en la sección de Personalización. Recalcar que este sistema implementa un tutorial interactivo para los nuevos usuarios (<a href="https://github.com/AcoranGonzalezMoray/MyEspace#material-implicado"> Enjoyhint </a>)
 </p>
 
