@@ -83,10 +83,14 @@ $root_path = 'ruta_directorio_privado';
 ...
 
 ```
+## Gráfico Almacenamiento
+
+Este gráfico se muestra al principio e indica al usuario el almacenamiento consumido/ocupado y el restante libre.
 
 ## Material implicado:
 
 --> Tiny File Manager (https://github.com/prasathmani/tinyfilemanager.git)
 
-
 --> Enjoyhint (https://github.com/xbsoftware/enjoyhint.git)
+
+--> Google chart (https://developers.google.com/chart/?csw=1)
