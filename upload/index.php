@@ -44,7 +44,7 @@ require_once("../src/session.php");
                         <div class="col-lg-8 col-xl-7 col-xxl-6">
                             <div class="my-5 text-center text-xl-start">
                                 <h1 class="display-5 fw-bolder text-white mb-2">Tu Espacio</h1>
-                                <p  style="color:#94a1b2;" class="lead fw-normal mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit!</p>
+                                <p  style="color:#94a1b2;" class="lead fw-normal mb-4">Acceso sencillo y seguro a tu contenido <br> Guarda y comparte  archivos y carpetas desde tu dispositivo móvil, tablet u ordenador</p>
                                 <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
                                 <?php
                                     // Nota: el resultado es protocolo agnostic
