@@ -83,7 +83,7 @@ $root_path = 'ruta_directorio_privado';
 ...
 
 ```
-## Gráfico Almacenamiento
+## Gráfico Almacenamiento 
 
 Este gráfico se muestra al principio e indica al usuario el almacenamiento consumido/ocupado y el restante libre.
 
